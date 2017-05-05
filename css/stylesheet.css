@@ -1,0 +1,25 @@
+canvas {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#message {
+	color: rgb(200, 200, 200);
+	width: 100%;
+	margin: 250px auto;
+	position: absolute;
+	text-align: center;
+	letter-spacing: 15px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 72px;
+	
+}
